@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "SchoolNetConnect": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}
